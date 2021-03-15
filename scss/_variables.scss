@@ -5,3 +5,17 @@ $secondary-color: #040A10;
 
 $black: #010305;
 $white: #f2f2f2;
+
+@mixin d($device) {
+  @if $device == t {
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+      @content;      
+    }
+  }
+  @else if $device == m {
+    @media only screen and (max-width: 767px) {
+      @content;      
+    }
+  }
+  
+}
