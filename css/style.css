@@ -93,6 +93,13 @@ a {
   height: 250px;
 }
 
+@media only screen and (max-width: 767px) {
+  .card {
+    width: 90%;
+    margin: 25% auto;
+  }
+}
+
 .img-holder img {
   width: 150px;
   border-radius: 50%;
@@ -172,7 +179,13 @@ hr {
   padding-right: 10px;
 }
 
-.mb {
+@media only screen and (max-width: 767px) {
+  .links {
+    width: 100%;
+  }
+}
+
+.mb-25 {
   margin-bottom: 25px;
 }
 /*# sourceMappingURL=style.css.map */
