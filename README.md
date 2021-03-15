@@ -12,7 +12,7 @@
 
 O projeto **My Links** foi feito com o intuito de colocar em prática conhecimentos que eu adquiri.
 
-Eu me baseei no segundo desafio que a [Isadora Stangarlin](https://github.com/isadorastan) postou em suas redes sociais e também no primeiro projeto do site [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+Eu me baseei no segundo desafio que a [Isadora Stangarlin](https://github.com/isadorastan) postou em suas redes sociais e também em um dos projetos do site [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 ---
 
